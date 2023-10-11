@@ -31,7 +31,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
 
-        <form name="contact" method="POST" dataNetlify="true">
+        <form name="contact" method="POST" data-netlify="true">
           <p>
             <label>
               Your Name: <input type="text" name="name" />
